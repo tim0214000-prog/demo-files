@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<DataFile>https://raw.githubusercontent.com/tim0214000-prog/demo-files/main/data.txt</DataFile>	<!-- Source data filename		-->
+	<Pos>80</Pos>					<!-- Vertical-Y position		-->
+	<TxtSize>50</TxtSize>			<!-- Text Size					-->
+	<TxtTransp>90</TxtTransp>		<!-- Text Transparency 0-100 	-->
+	<TxtColor>FFFFFF</TxtColor>		<!-- Text Color RRGGBB		 	-->
+	<BckColor></BckColor>		<!-- Background Color RRGGBB 	-->
+	<Offset>0</Offset>				<!-- Vertical-Y offset		 	-->
+	<Speed>3</Speed>				<!-- Scrolling Speed			-->
+	<Font>NotoSansTC</Font>			<!-- NotoSansTC-Bold / NotoSansKR -->
+	<Loop>0</Loop>					<!-- Loop occurance, 0=infinite	 -->
+	<Duration>0</Duration>			<!-- Duration in sec, 0=infinite -->
+</config>
